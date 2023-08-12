@@ -1,0 +1,13 @@
+.titleContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.currentQuestion {
+  margin-top: 20px;
+}
+
+.currentQuestionLink {
+  margin-top: 10px;
+}

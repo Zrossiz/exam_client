@@ -1,0 +1,20 @@
+.text {
+  font-size: 16px;
+  color: var(--text-color);
+}
+
+.thin {
+  font-weight: 300;
+}
+
+.normal {
+  font-weight: 400;
+}
+
+.bold {
+  font-weight: 600;
+}
+
+.white {
+  color: var(--white);
+}
